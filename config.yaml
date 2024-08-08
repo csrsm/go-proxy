@@ -1,0 +1,4 @@
+Mode: c
+WsServer: wss://go-proxy-hk-nxeeqtpcso.cn-hongkong.fcapp.run/ws
+ClientSocks5Port: 18080
+ClientJwtPrivateKeyFilePath: pk.txt
